@@ -1,0 +1,22 @@
+<head>
+  <title><%=@ep['name']%></title>
+  <link rel='stylesheet' href='/stylesheets/style.css' />
+</head>
+<body>
+
+<h3><%= @ep['name']%>@ <%=@ep['now'] %></h3>
+<span>copy links to download</span>
+<ul>
+
+  <%  @ep['dls'].each {|epi| %>
+      <li>
+        <%= epi['type'] %> <%= epi['name'] %>-
+        <a href='<%= epi['link1'] %>'>link1</a>
+        &nbsp;<a href='<%= epi['link2'] %>'>link2</a>
+        &nbsp;<a href='<%= epi['link3'] %>'>link3</a>
+
+      </li>
+      <% } %>
+      </ul>
+ </body>
+<footer>Powered by Ruby on Rails</footer>
