@@ -113,7 +113,7 @@
       <file leaf-file-name="Gemfile.lock" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile.lock">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="133" column="17" selection-start="3162" selection-end="3162" vertical-scroll-proportion="0.72301424" vertical-offset="1773" max-vertical-offset="2288">
+            <state line="119" column="0" selection-start="2927" selection-end="2927" vertical-scroll-proportion="0.26680243" vertical-offset="1773" max-vertical-offset="2288">
               <folding />
             </state>
           </provider>
@@ -920,20 +920,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/episode/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="26" selection-start="569" selection-end="569" vertical-scroll-proportion="-14.08" vertical-offset="0" max-vertical-offset="448">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="128">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="10" column="21" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="77" max-vertical-offset="592">
@@ -948,6 +934,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/episode/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="26" selection-start="569" selection-end="569" vertical-scroll-proportion="-14.08" vertical-offset="0" max-vertical-offset="448">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="0" selection-start="38" selection-end="38" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="128">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="5" selection-start="495" selection-end="495" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="576">
@@ -957,7 +957,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile.lock">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="133" column="17" selection-start="3162" selection-end="3162" vertical-scroll-proportion="0.72301424" vertical-offset="1773" max-vertical-offset="2288">
+        <state line="119" column="0" selection-start="2927" selection-end="2927" vertical-scroll-proportion="0.26680243" vertical-offset="1773" max-vertical-offset="2288">
           <folding />
         </state>
       </provider>
