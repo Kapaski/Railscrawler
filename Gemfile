@@ -1,13 +1,13 @@
 source 'https://rubygems.org'
 
+group :development, :test do
+  # Use sqlite3 as the database for Active Record
+  gem 'sqlite3'
+end
 
 gem 'nokogiri', '~> 1.6.2'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.5'
-# Use sqlite3 as the database for Active Record
-group :development, :test do
-  gem 'sqlite3'
-end
 gem 'pg'
 # Use SCSS for stylesheets
 gem 'autoprefixer-rails'

@@ -3,8 +3,8 @@
   <component name="DataSourceManagerImpl" format="xml" hash="2445672735">
     <data-source source="LOCAL" name="Rails railscrawler: development" uuid="8e29c680-f5d6-4c4c-a5cd-7b26e0f62aad">
       <driver-ref>sqlite.xerial</driver-ref>
-      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql:rails_crawler_dev</jdbc-url>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:D:\dev\railscrawler\rails_crawler_dev</jdbc-url>
       <libraries />
     </data-source>
     <data-source source="LOCAL" name="Rails railscrawler: test" uuid="88cba154-71dd-4087-8f17-f47dddca0781">
