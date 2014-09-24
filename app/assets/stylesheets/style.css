@@ -13,9 +13,9 @@ a {
 }
 .left {
 	float:left;
-    overflow: left;
+    test-overflow:left;
     height: auto;
-    background: #ccc
+    background: #ffffff;
     display:inline-block;
 }
 .right {
