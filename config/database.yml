@@ -8,9 +8,13 @@ default: &default
   adapter: postgresql
   pool: 5
   timeout: 5000
+sq3: &sq3
+  adapter: sqlite3
+  pool: 5
+  timeout: 5000
 
 development:
-  <<: *default
+  <<: *sq3
   database: rails_crawler_dev
 
 # Warning: The database defined as "test" will be erased and
