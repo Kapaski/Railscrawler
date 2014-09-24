@@ -3,4 +3,10 @@
   <data-source source="LOCAL" name="Rails railscrawler: development" uuid="8e29c680-f5d6-4c4c-a5cd-7b26e0f62aad">
     <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
   </data-source>
+  <data-source source="LOCAL" name="Rails railscrawler: test" uuid="88cba154-71dd-4087-8f17-f47dddca0781">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails railscrawler: production" uuid="78abaaad-62e8-4c1e-b2c8-42a83c820895">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
 </component>
