@@ -35,10 +35,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/episode/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="8" selection-start="495" selection-end="495" vertical-scroll-proportion="0.6866953" vertical-offset="0" max-vertical-offset="466">
+            <state line="2" column="22" selection-start="47" selection-end="63" vertical-scroll-proportion="-1.28" vertical-offset="0" max-vertical-offset="448">
               <folding />
             </state>
           </provider>
@@ -71,10 +71,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html.erb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html.erb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/yy/index.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="19" selection-start="968" selection-end="968" vertical-scroll-proportion="-7.28" vertical-offset="218" max-vertical-offset="1424">
+            <state line="2" column="6" selection-start="37" selection-end="37" vertical-scroll-proportion="0.07064018" vertical-offset="0" max-vertical-offset="1440">
               <folding>
                 <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
               </folding>
@@ -102,11 +102,11 @@
         <option value="$PROJECT_DIR$/app/controllers/yy_crawler.rb" />
         <option value="$PROJECT_DIR$/app/views/yy/index1.erb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/yy/index.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/yy_controller.rb" />
         <option value="$PROJECT_DIR$/app/controllers/episode_controller.rb" />
         <option value="$PROJECT_DIR$/app/helpers/yy_helper.rb" />
         <option value="$PROJECT_DIR$/app/views/episode/index.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/yy/index.html.erb" />
       </list>
     </option>
   </component>
@@ -184,6 +184,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="railscrawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="railscrawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="railscrawler" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -801,15 +815,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/yy/index.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="19" selection-start="968" selection-end="968" vertical-scroll-proportion="-7.28" vertical-offset="218" max-vertical-offset="1424">
-          <folding>
-            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/yy_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state line="14" column="14" selection-start="112" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="416">
@@ -833,8 +838,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/episode/index.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="8" selection-start="495" selection-end="495" vertical-scroll-proportion="0.6866953" vertical-offset="0" max-vertical-offset="466">
+        <state line="2" column="22" selection-start="47" selection-end="63" vertical-scroll-proportion="-1.28" vertical-offset="0" max-vertical-offset="448">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/yy/index.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="6" selection-start="37" selection-end="37" vertical-scroll-proportion="0.07064018" vertical-offset="0" max-vertical-offset="1440">
+          <folding>
+            <element signature="n#style#0;n#span#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
