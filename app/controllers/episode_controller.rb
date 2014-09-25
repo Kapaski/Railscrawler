@@ -7,7 +7,7 @@ class EpisodeController < ApplicationController
 
     @ep = Hash.new
     @ep['dls'] = Array.new
-    @ep['now'] = Time.now.strftime("%d-%m-%Y %H:%M:%S")
+    @ep['now'] = current_time
     parse_episode_page(@ep,link_url)
     # puts @ep
     return @ep

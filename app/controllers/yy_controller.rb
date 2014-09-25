@@ -9,7 +9,7 @@ class YyController < ApplicationController
     @ep = Hash.new
     @ep['rooturl'] =  "http://www.yayaxz.com/"
     @ep['dls'] = Array.new
-    @ep['now'] = Time.now.strftime("%d-%m-%Y %H:%M:%S")
+    @ep['now'] = current_time
     parse_first_page(@ep,@ep['rooturl'])
     # puts @ep
     return @ep

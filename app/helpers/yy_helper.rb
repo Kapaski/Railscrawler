@@ -2,6 +2,11 @@ require 'thread'
 require 'nokogiri'
 require 'open-uri'
 module YyHelper
+  def current_time
+    Time.zone="Melbourne"
+    return Time.current.to_formatted_s
+  end
+
   def open_page yy_url
     #yy_url = "http://www.yayaxz.com/"
     frame = Nokogiri::HTML(open(yy_url),nil,'UTF-8')
