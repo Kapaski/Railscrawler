@@ -9,6 +9,7 @@ gem 'nokogiri', '~> 1.6.2'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.1.5'
 gem 'pg'
+gem 'newrelic_rpm'
 # Use SCSS for stylesheets
 #gem 'autoprefixer-rails'
 #gem 'bootstrap-sass', '~> 3.2.0'
